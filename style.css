@@ -1,4 +1,14 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background-color: SkyBlue;
+}
+
+h1 {
+  background-color: #f7439d;
+  color: rgb(215, 255, 100);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ff063f;
 }
